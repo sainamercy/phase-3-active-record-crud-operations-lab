@@ -120,7 +120,7 @@ are class methods (`.`).
 
 ### Delete
 
-- `Movie.delete_by_id`: deletes a single item with the `#destroy` method
+- `update_all_titles`: deletes a single item with the `#destroy` method
 - `Movie.delete_all_movies`: deletes all items at once with the `.destroy_all`
   method
 
